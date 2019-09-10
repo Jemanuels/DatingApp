@@ -13,7 +13,6 @@ registerMode = false;
   constructor(private http: HttpClient) { }
 
   ngOnInit() {
-    
   }
 
   registerToggle() {
